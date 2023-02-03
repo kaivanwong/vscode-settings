@@ -1,2 +1,3 @@
 # vscode-settings
-My VS Code settings and extensions
+
+My Visual Studio Code settings and extensions
