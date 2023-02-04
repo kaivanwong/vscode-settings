@@ -1,0 +1,209 @@
+{
+	"editor.quickSuggestions": {
+		"strings": true
+	},
+	"editor.fontSize": 16,
+	"editor.fontLigatures": true,
+	"editor.minimap.enabled": false,
+	"editor.fontFamily": "CascadiaMono,OperatorMonoLig-Book,'JetBrainsMono-Light','FiraCode-Light','Hack-Regular','JetBrains Mono','FiraCode-Retina','Operator Mono Lig',Menlo,Monaco, 'Courier New','阿里巴巴普惠体'",
+	"editor.largeFileOptimizations": false,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.wordWrapColumn": 160,
+	"editor.lineNumbers": "relative",
+	"editor.rulers": [],
+	"editor.cursorBlinking": "solid",
+	"editor.fontWeight": "normal",
+	"editor.minimap.maxColumn": 160,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.cursorStyle": "line",
+	"editor.insertSpaces": false,
+	"editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+	"editor.wordWrap": "bounded",
+	"editor.inlayHints.fontSize": 18,
+	"editor.suggestFontSize": 18,
+	"editor.renderLineHighlight": "all",
+	"editor.linkedEditing": true,
+	"editor.scrollbar.vertical": "visible",
+	"editor.scrollbar.horizontal": "visible",
+	"editor.suggest.showStatusBar": true,
+	"editor.suggestSelection": "first",
+	"editor.inlineSuggest.enabled": true,
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.stylelint": true
+	},
+	"search.showLineNumbers": true,
+	"search.exclude": {
+		"*.code-workspace": true
+	},
+	"markdown.preview.fontSize": 16,
+	"markdown.preview.lineHeight": 15,
+	"[markdown]": {
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"terminal.integrated.lineHeight": 0,
+	"terminal.integrated.fontFamily": "'JetBrains Mono','Fira Code',Menlo,Monaco, 'Courier New', monospace",
+	"terminal.integrated.fontWeightBold": "normal",
+	"terminal.integrated.fontSize": 16,
+	"terminal.integrated.defaultProfile.windows": "PowerShell",
+	"debug.console.fontFamily": "'JetBrains Mono','Fira Code',Menlo,Monaco, 'Courier New', monospace",
+	"debug.console.fontSize": 16,
+	"workbench.list.horizontalScrolling": true,
+	"workbench.startupEditor": "none",
+	"workbench.editor.limit.enabled": true,
+	"workbench.editor.showTabs": true,
+	"workbench.editor.limit.value": 6,
+	"workbench.colorTheme": "One Dark Pro",
+	"workbench.productIconTheme": "fluent-icons",
+	"workbench.colorCustomizations": {
+		"editorIndentGuide.activeBackground": "#ff0000"
+	},
+	"workbench.iconTheme": "material-icon-theme",
+	"material-icon-theme.activeIconPack": "vue_vuex",
+	"material-icon-theme.opacity": 1,
+	"prettier.semi": false,
+	"prettier.printWidth": 160,
+	"zenMode.centerLayout": false,
+	"zenMode.restore": true,
+	"zenMode.hideLineNumbers": false,
+	"zenMode.fullScreen": false,
+	"eslint.enable": true,
+	"eslint.codeAction.showDocumentation": {},
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"vue"
+	],
+	"eslint.format.enable": true,
+	"eslint.run": "onSave",
+	"files.exclude": {
+		".vscode": false,
+		"*.code-workspace": true,
+		"**/.DS_Store": true,
+		"**/.git": true,
+		"**/.idea": true,
+		"**/.svn": true,
+		"**/node_modules": false,
+		"**/public/js/app.js": false,
+		"**/tmp": true,
+		"**/yarn.lock": true
+	},
+	"files.watcherExclude": {
+		"**/vendor/**": true
+	},
+	"files.associations": {
+		"*.vue": "vue",
+		"*.cjson": "jsonc",
+		"*.wxss": "css",
+		"*.wxs": "javascript",
+		"*.ts": "typescript",
+		"*.dart": "dart"
+	},
+	"breadcrumbs.symbolPath": "off",
+	"breadcrumbs.enabled": true,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[scss]": {
+		"editor.suggest.insertMode": "replace",
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"css.lint.compatibleVendorPrefixes": "error",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"html.format.wrapAttributes": "preserve-aligned",
+	"html.format.wrapLineLength": 160,
+	"html.format.extraLiners": "head, body, /html",
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"javascript.validate.enable": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"screencastMode.keyboardOverlayTimeout": 600,
+	"screencastMode.verticalOffset": 10,
+	"screencastMode.fontSize": 55,
+	"prettier.tabWidth": 2,
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.arrowParens": "avoid",
+	"prettier.useEditorConfig": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.openEditors.visible": 3,
+	"window.closeWhenEmpty": true,
+	"security.workspace.trust.untrustedFiles": "open",
+	"volar.icon.preview": true,
+	"volar.autoCompleteRefs": true,
+	"volar.splitEditors.layout.left": [
+		"script",
+		"scriptSetup",
+		"styles"
+	],
+	"volar.codeLens.pugTools": true,
+	"volar.codeLens.scriptSetupTools": true,
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.triggerExpansionOnTab": true,
+	"emmet.syntaxProfiles": {
+		"vue-html": "html",
+		"vue": "html",
+		"javascript": "javascriptreact",
+		"xml": {
+			"attr_quotes": "single"
+		}
+	},
+	"emmet.includeLanguages": {
+		"wxml": "html",
+		"vue-html": "html",
+		"vue": "html"
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"i18n-ally.localesPaths": [
+		"src/i18n",
+		"src/languages",
+		"languages",
+		"src/plugins/vue-i18n/languages"
+	],
+	"i18n-ally.enabledParsers": [
+		"json",
+		"js",
+		"ts"
+	],
+	"i18n-ally.enabledFrameworks": [
+		"vue",
+		"react"
+	],
+	"i18n-ally.sortKeys": true,
+	"i18n-ally.keystyle": "nested",
+	"i18n-ally.sourceLanguage": "en-US",
+	"i18n-ally.displayLanguage": "en-US",
+	"i18n-ally.namespace": true,
+	"stylelint.enable": true,
+	"stylelint.validate": [
+		"css",
+		"less",
+		"postcss",
+		"scss",
+		"vue",
+		"sass"
+	],
+	"[typescript]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"settingsSync.ignoredSettings": [
+		"-git.path"
+	],
+	"git.enableSmartCommit": true,
+	"git.confirmSync": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"window.commandCenter": true
+}
