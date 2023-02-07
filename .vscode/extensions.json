@@ -30,6 +30,7 @@
 		"mpontus.tab-cycle",
 		"naumovs.color-highlight",
 		"WakaTime.vscode-wakatime",
-		"GitHub.copilot"
+		"GitHub.copilot",
+		"ritwickdey.LiveServer",
 	]
 }
