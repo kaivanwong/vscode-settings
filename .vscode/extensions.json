@@ -32,5 +32,6 @@
 		"WakaTime.vscode-wakatime",
 		"GitHub.copilot",
 		"ritwickdey.LiveServer",
+		"formulahendry.auto-rename-tag"
 	]
 }
