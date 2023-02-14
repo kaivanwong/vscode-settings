@@ -10,6 +10,8 @@
 		"lokalise.i18n-ally",
 		"voorjaar.windicss-intellisense",
 		"Vue.volar",
+		"syler.sass-indented",
+		"antfu.smart-clicks",
 		// Themes & Icons
 		"antfu.icons-carbon",
 		"antfu.theme-vitesse",
@@ -24,6 +26,7 @@
 		"amodio.tsl-problem-matcher",
 		"richie5um2.vscode-sort-json",
 		"unional.vscode-sort-package-json",
+		"esbenp.prettier-vscode",
 		// Projects & Workbench
 		"eamodio.gitlens",
 		"GitHub.vscode-pull-request-github",
