@@ -12,6 +12,7 @@
 		"Vue.volar",
 		"syler.sass-indented",
 		"antfu.smart-clicks",
+		"antfu.file-nesting",
 		// Themes & Icons
 		"antfu.icons-carbon",
 		"antfu.theme-vitesse",
